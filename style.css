@@ -69,3 +69,8 @@
 .git {
 	color: white;
 }
+.hsixtext:hover {
+	background-color: greenyellow;
+	color: var(--Off-Black);
+	cursor: pointer;
+}
